@@ -5,3 +5,4 @@ Contents-
 
 To do-
 - Multiple GPU training- Data Parallel v/s Model Parallel
+- Use of collate function in dataloader
